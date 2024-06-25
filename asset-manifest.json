@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MovieWebsite/static/css/main.565e7192.css",
+    "main.js": "/MovieWebsite/static/js/main.10223218.js",
+    "reactPlayerPreview.js": "/MovieWebsite/static/js/reactPlayerPreview.22ceeadb.chunk.js",
+    "static/media/thor1.jpg": "/MovieWebsite/static/media/thor1.e2c25d0113264853c7c9.jpg",
+    "index.html": "/MovieWebsite/index.html",
+    "main.565e7192.css.map": "/MovieWebsite/static/css/main.565e7192.css.map",
+    "main.10223218.js.map": "/MovieWebsite/static/js/main.10223218.js.map",
+    "reactPlayerPreview.22ceeadb.chunk.js.map": "/MovieWebsite/static/js/reactPlayerPreview.22ceeadb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.565e7192.css",
+    "static/js/main.10223218.js"
+  ]
+}
